@@ -1,0 +1,105 @@
+--TASK 3482.
+
+-- Write a solution to analyze the organizational hierarchy and answer the following:
+-- Hierarchy Levels: For each employee, determine their level in the organization (CEO is level 1, employees reporting directly to the CEO are level 2, and so on).
+-- Team Size: For each employee who is a manager, count the total number of employees under them (direct and indirect reports).
+-- Salary Budget: For each manager, calculate the total salary budget they control (sum of salaries of all employees under them, 
+-- including indirect reports, plus their own salary).
+-- Return the result table ordered by the result ordered by level in ascending order, then by budget in descending order,
+-- and finally by employee_name in ascending order.
+-- The result format is in the following example.
+
+
+-- Example:
+-- Input:
+-- Employees table:
+-- +-------------+---------------+------------+--------+-------------+
+-- | employee_id | employee_name | manager_id | salary | department  |
+-- +-------------+---------------+------------+--------+-------------+
+-- | 1           | Alice         | null       | 12000  | Executive   |
+-- | 2           | Bob           | 1          | 10000  | Sales       |
+-- | 3           | Charlie       | 1          | 10000  | Engineering |
+-- | 4           | David         | 2          | 7500   | Sales       |
+-- | 5           | Eva           | 2          | 7500   | Sales       |
+-- | 6           | Frank         | 3          | 9000   | Engineering |
+-- | 7           | Grace         | 3          | 8500   | Engineering |
+-- | 8           | Hank          | 4          | 6000   | Sales       |
+-- | 9           | Ivy           | 6          | 7000   | Engineering |
+-- | 10          | Judy          | 6          | 7000   | Engineering |
+-- +-------------+---------------+------------+--------+-------------+
+-- Output:
+-- +-------------+---------------+-------+-----------+--------+
+-- | employee_id | employee_name | level | team_size | budget |
+-- +-------------+---------------+-------+-----------+--------+
+-- | 1           | Alice         | 1     | 9         | 84500  |
+-- | 3           | Charlie       | 2     | 4         | 41500  |
+-- | 2           | Bob           | 2     | 3         | 31000  |
+-- | 6           | Frank         | 3     | 2         | 23000  |
+-- | 4           | David         | 3     | 1         | 13500  |
+-- | 7           | Grace         | 3     | 0         | 8500   |
+-- | 5           | Eva           | 3     | 0         | 7500   |
+-- | 9           | Ivy           | 4     | 0         | 7000   |
+-- | 10          | Judy          | 4     | 0         | 7000   |
+-- | 8           | Hank          | 4     | 0         | 6000   |
+-- +-------------+---------------+-------+-----------+--------+
+
+---------------------SOLUTION(1): [RECURSIVE CTE]
+WITH leadership AS (
+    -- Początkowy poziom: top managerowie
+    SELECT 
+        manager_id,
+        employee_id,
+        employee_name,
+        salary,
+        1 AS level
+    FROM Employees
+    WHERE manager_id IS NULL
+
+    UNION ALL
+
+    -- Rekurencyjnie: wszyscy podlegli pracownicy
+    SELECT 
+        e.manager_id,
+        e.employee_id,
+        e.employee_name,
+        e.salary,
+        l.level + 1 AS level
+    FROM Employees e
+    JOIN leadership l ON e.manager_id = l.employee_id
+),
+subordinate AS (
+    -- Bezpośredni podwładni
+    SELECT 
+        employee_id,
+        salary,
+        manager_id
+    FROM Employees
+
+    UNION ALL
+
+    -- Rekurencyjnie: wszyscy podwładni niższego szczebla
+    SELECT 
+        e.employee_id,
+        e.salary,
+        s.manager_id
+    FROM Employees e
+    JOIN subordinate s ON s.employee_id = e.manager_id
+),
+final AS (
+    SELECT 
+        l.employee_id,
+        l.employee_name,
+        l.level,
+        COUNT(s.employee_id) AS team_size,
+        ISNULL(SUM(s.salary),0) + l.salary AS budget
+    FROM leadership l
+    LEFT JOIN subordinate s ON s.manager_id = l.employee_id
+    GROUP BY 
+        l.employee_id,
+        l.employee_name,
+        l.level,
+        l.salary
+)
+SELECT *
+FROM final
+ORDER BY level, budget DESC, employee_name;
