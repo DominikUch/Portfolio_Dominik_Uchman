@@ -8,9 +8,7 @@ These exercises were completed as part of my university coursework and are desig
 
 ## 📂 Folder Structure
 
-- **Dział_1 to Dział_12** – Each folder corresponds to a specific module or topic from my university coursework.
-
- These folders contain exercises ranging from **basic syntax and control structures** to more advanced topics such as **pointers, recursion, and data structures**.  
+- **Dział_1 to Dział_12** – Each folder corresponds to a specific module or topic from my university coursework.These folders contain exercises ranging from **basic syntax and control structures** to more advanced topics such as **pointers, recursion, and data structures**.  
 
 - **Most Important** – This folder contains the most challenging and representative exercises, selected to highlight key skills and concepts in C programming from my university course.
 
