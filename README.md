@@ -1,6 +1,7 @@
 # 👨‍💻 Portfolio – Dominik Uchman
 
-Welcome to my **personal portfolio**, showcasing projects and exercises I have completed in **C, C#, SQL, and Excel**. This repository highlights my skills in software development, data analysis, and interactive dashboard creation.
+Welcome to my **personal portfolio**, showcasing projects and exercises I have completed in **C, C#, SQL, and Excel**. 
+This repository highlights my skills in software development, data analysis, and interactive dashboard creation.
 
 ---
 
