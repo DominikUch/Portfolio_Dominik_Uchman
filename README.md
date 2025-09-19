@@ -16,10 +16,10 @@ I am a passionate programmer and data enthusiast, continuously learning and appl
 ---
 
 ## 🛠️ Skills and Technologies
-- **Programming Languages:** C, C#  
+- **Programming Languages:** C, C#, Python  
 - **Databases & SQL:** MySQL, SQL Server  
 - **Data Analysis & Visualization:** Microsoft Excel (Pivot Tables, Charts, Slicers)  
-- **Tools & Practices:** Git, GitHub, Debugging, Problem Solving  
+- **Tools & Practices:** Git, GitHub, Vibe Coding, Debugging, Problem Solving  
 
 ---
 
@@ -46,9 +46,9 @@ An Excel dashboard analyzing road accident data, visualizing:
 ---
 
 ### 3. Other C / C# / SQL Projects
-- **C Programming Exercises:** Algorithms, Data Structures, File Handling  
-- **C# Projects:** Windows Forms Applications, Console Programs  
-- **SQL Projects:** Database Design, Queries, Reporting  
+- **C Programming Exercises:** Algorithms, Data Structures, Functions
+- **C# Projects:** Object-Oriented Programming, Functions, Algorithms  
+- **SQL Projects:** Database Design, Queries
 
 ---
 
