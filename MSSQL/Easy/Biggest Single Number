@@ -1,0 +1,54 @@
+--TASK 619.
+
+-- A single number is a number that appeared only once in the MyNumbers table.
+-- Find the largest single number. If there is no single number, report null.
+-- The result format is in the following example.
+
+-- Example 1:
+-- Input: 
+-- MyNumbers table:
+-- +-----+
+-- | num |
+-- +-----+
+-- | 8   |
+-- | 8   |
+-- | 3   |
+-- | 3   |
+-- | 1   |
+-- | 4   |
+-- | 5   |
+-- | 6   |
+-- +-----+
+-- Output: 
+-- +-----+
+-- | num |
+-- +-----+
+-- | 6   |
+-- +-----+
+
+--Solution (1):
+
+IF EXISTS (
+    SELECT TOP 1 num from MyNumbers
+    GROUP BY  num
+    HAVING count(num) = 1
+    ORDER BY num DESC
+)
+SELECT TOP 1 num from MyNumbers
+    GROUP BY num
+    HAVING count(num) = 1
+    ORDER BY num DESC
+ELSE
+SELECT null AS num
+
+
+--Solution(2):
+
+SELECT ISNULL(
+    (SELECT top 1 num from mynumbers
+     GROUP BY num
+     HAVING count(*) = 1
+     ORDER BY num desc),
+    null
+) as num;
+
