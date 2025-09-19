@@ -1,0 +1,47 @@
+--TASK 3475.
+
+-- Biologists are studying basic patterns in DNA sequences. Write a solution to identify sample_id with the following patterns:
+-- Sequences that start with ATG (a common start codon)
+-- Sequences that end with either TAA, TAG, or TGA (stop codons)
+-- Sequences containing the motif ATAT (a simple repeated pattern)
+-- Sequences that have at least 3 consecutive G (like GGG or GGGG)
+-- Return the result table ordered by sample_id in ascending order.
+-- The result format is in the following example.
+
+-- Example:
+-- Input:
+-- Samples table:
+-- +-----------+------------------+-----------+
+-- | sample_id | dna_sequence     | species   |
+-- +-----------+------------------+-----------+
+-- | 1         | ATGCTAGCTAGCTAA  | Human     |
+-- | 2         | GGGTCAATCATC     | Human     |
+-- | 3         | ATATATCGTAGCTA   | Human     |
+-- | 4         | ATGGGGTCATCATAA  | Mouse     |
+-- | 5         | TCAGTCAGTCAG     | Mouse     |
+-- | 6         | ATATCGCGCTAG     | Zebrafish |
+-- | 7         | CGTATGCGTCGTA    | Zebrafish |
+-- +-----------+------------------+-----------+
+-- Output:
+-- +-----------+------------------+-------------+-------------+------------+------------+------------+
+-- | sample_id | dna_sequence     | species     | has_start   | has_stop   | has_atat   | has_ggg    |
+-- +-----------+------------------+-------------+-------------+------------+------------+------------+
+-- | 1         | ATGCTAGCTAGCTAA  | Human       | 1           | 1          | 0          | 0          |
+-- | 2         | GGGTCAATCATC     | Human       | 0           | 0          | 0          | 1          |
+-- | 3         | ATATATCGTAGCTA   | Human       | 0           | 0          | 1          | 0          |
+-- | 4         | ATGGGGTCATCATAA  | Mouse       | 1           | 1          | 0          | 1          |
+-- | 5         | TCAGTCAGTCAG     | Mouse       | 0           | 0          | 0          | 0          |
+-- | 6         | ATATCGCGCTAG     | Zebrafish   | 0           | 1          | 1          | 0          |
+-- | 7         | CGTATGCGTCGTA    | Zebrafish   | 0           | 0          | 0          | 0          |
+-- +-----------+------------------+-------------+-------------+------------+------------+------------+
+
+
+--SOLUTION:
+
+SELECT
+    *,
+    CASE WHEN LEFT(dna_sequence, 3) LIKE 'ATG' THEN 1 ELSE 0 END as has_start,
+    CASE WHEN RIGHT(dna_sequence, 3) IN ('TAA', 'TAG', 'TGA') THEN 1 ELSE 0 END as has_stop,
+    CASE WHEN dna_sequence LIKE '%ATAT%' THEN 1 ELSE 0 END as has_atat,
+    CASE WHEN dna_sequence LIKE '%GGG%' THEN 1 ELSE 0 END as has_ggg
+FROM Samples 
