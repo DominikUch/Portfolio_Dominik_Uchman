@@ -1,4 +1,5 @@
 ☕ Coffee Sales Dashboard
+
 📌 Project Description
 This project is an interactive sales dashboard built in Microsoft Excel. Its purpose is to visualize and analyze coffee sales data using three key datasets: Orders, Products, and Customers.
 
