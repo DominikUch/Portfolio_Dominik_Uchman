@@ -15,7 +15,7 @@ The dashboard contains visualizations for:
 
 ---
 
-👉 To explore this project fully, please download **Road Accident Data.xlsx** ("open raw").
+👉 To explore this project fully, please download **Road Accident Data.xlsx** ("view raw").
 
 For those who do not wish to download the file, screenshots of the most important project sheets are included below.
 
