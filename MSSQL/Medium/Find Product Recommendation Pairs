@@ -1,0 +1,99 @@
+--TASK 3521
+
+-- Amazon wants to implement the Customers who bought this also bought... feature based on co-purchase patterns. Write a solution to :
+-- Identify distinct product pairs frequently purchased together by the same customers (where product1_id < product2_id)
+-- For each product pair, determine how many customers purchased both products
+-- A product pair is considered for recommendation if at least 3 different customers have purchased both products.
+-- Return the result table ordered by customer_count in descending order, and in case of a tie, 
+-- by product1_id in ascending order, and then by product2_id in ascending order.
+-- The result format is in the following example.
+
+-- Example:
+-- Input:
+-- ProductPurchases table:
+-- +---------+------------+----------+
+-- | user_id | product_id | quantity |
+-- +---------+------------+----------+
+-- | 1       | 101        | 2        |
+-- | 1       | 102        | 1        |
+-- | 1       | 103        | 3        |
+-- | 2       | 101        | 1        |
+-- | 2       | 102        | 5        |
+-- | 2       | 104        | 1        |
+-- | 3       | 101        | 2        |
+-- | 3       | 103        | 1        |
+-- | 3       | 105        | 4        |
+-- | 4       | 101        | 1        |
+-- | 4       | 102        | 1        |
+-- | 4       | 103        | 2        |
+-- | 4       | 104        | 3        |
+-- | 5       | 102        | 2        |
+-- | 5       | 104        | 1        |
+-- +---------+------------+----------+
+-- ProductInfo table:
+-- +------------+-------------+-------+
+-- | product_id | category    | price |
+-- +------------+-------------+-------+
+-- | 101        | Electronics | 100   |
+-- | 102        | Books       | 20    |
+-- | 103        | Clothing    | 35    |
+-- | 104        | Kitchen     | 50    |
+-- | 105        | Sports      | 75    |
+-- +------------+-------------+-------+
+-- Output:
+-- +-------------+-------------+-------------------+-------------------+----------------+
+-- | product1_id | product2_id | product1_category | product2_category | customer_count |
+-- +-------------+-------------+-------------------+-------------------+----------------+
+-- | 101         | 102         | Electronics       | Books             | 3              |
+-- | 101         | 103         | Electronics       | Clothing          | 3              |
+-- | 102         | 104         | Books             | Kitchen           | 3              |
+-- +-------------+-------------+-------------------+-------------------+----------------+
+
+
+
+
+------------------------------SOLUTION(1): [HARD SELECT]
+SELECT
+    pp1.product_id as product1_id,
+    pp2.product_id as product2_id,
+    pi1.category as product1_category,
+    pi2.category as product2_category,
+    COUNT(DISTINCT pp1.user_id) as customer_count 
+FROM ProductPurchases pp1 
+JOIN ProductPurchases pp2 on pp1.user_id = pp2.user_id
+    AND pp1.product_id != pp2.product_id 
+    AND pp1.product_id < pp2.product_id
+JOIN ProductInfo pi1 on pp1.product_id = pi1.product_id
+JOIN ProductInfo pi2 on pp2.product_id = pi2.product_id
+group by 
+    pp1.product_id,
+    pp2.product_id,
+    pi1.category,
+    pi2.category
+HAVING COUNT(DISTINCT pp1.user_id) >= 3
+ORDER BY COUNT(DISTINCT pp1.user_id) DESC, pp1.product_id ASC, pp2.product_id ASC
+
+
+------------------------------SOLUTION(2): [CTE]
+WITH product_pairs AS(
+    SELECT 
+        P1.user_id AS user_id,
+        P1.product_id AS product1_id,
+        P2.product_id AS product2_id  
+    FROM ProductPurchases P1 JOIN ProductPurchases P2
+    ON P1.user_id=P2.user_id AND P1.product_id<P2.product_id
+),
+customer_count AS(
+    SELECT product1_id,product2_id,COUNT(DISTINCT user_id) AS customer_count
+    FROM product_pairs 
+    GROUP BY product1_id,product2_id
+    HAVING COUNT(DISTINCT user_id)>=3
+)
+SELECT 
+    product1_id,product2_id ,
+    P1.category AS product1_category, 
+    P2.category AS product2_category ,customer_count
+FROM customer_count C
+ JOIN ProductInfo P1 ON C.product1_id=P1.product_id 
+ JOIN ProductInfo P2 ON C.product2_id=P2.product_id 
+ORDER BY customer_count DESC,product1_id,product2_id;
