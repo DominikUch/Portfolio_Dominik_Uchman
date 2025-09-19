@@ -1,0 +1,32 @@
+--TASK 1667.
+
+-- Write a solution to fix the names so that only the first character is uppercase and the rest are lowercase.
+-- Return the result table ordered by user_id.
+-- The result format is in the following example.
+
+-- Example 1:
+
+-- Input: 
+-- Users table:
+-- +---------+-------+
+-- | user_id | name  |
+-- +---------+-------+
+-- | 1       | aLice |
+-- | 2       | bOB   |
+-- +---------+-------+
+-- Output: 
+-- +---------+-------+
+-- | user_id | name  |
+-- +---------+-------+
+-- | 1       | Alice |
+-- | 2       | Bob   |
+-- +---------+-------+
+
+--Solution:
+SELECT
+    a.user_id,
+    CONCAT( LEFT(UPPER(a.name), 1),
+    RIGHT(LOWER(a.name), LEN(a.name) -1) ) as name
+FROM Users a
+    JOIN Users as b on a.user_id = b.user_id
+ORDER BY a.user_id
