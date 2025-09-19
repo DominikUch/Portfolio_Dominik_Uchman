@@ -1,0 +1,49 @@
+--TASK 180.
+
+-- Find all numbers that appear at least three times consecutively.
+-- Return the result table in any order.
+-- The result format is in the following example.
+
+-- Example 1:
+-- Input: 
+-- Logs table:
+-- +----+-----+
+-- | id | num |
+-- +----+-----+
+-- | 1  | 1   |
+-- | 2  | 1   |
+-- | 3  | 1   |
+-- | 4  | 2   |
+-- | 5  | 1   |
+-- | 6  | 2   |
+-- | 7  | 2   |
+-- +----+-----+
+-- Output: 
+-- +-----------------+
+-- | ConsecutiveNums |
+-- +-----------------+
+-- | 1               |
+-- +-----------------+
+
+
+--SOLUTION (1):
+SELECT DISTINCT 
+    num as ConsecutiveNums 
+FROM (
+    SELECT 
+        id,
+        num,
+        LAG(num,1) OVER( order by id) as prev_value,
+        LEAD(num,1) OVER (order by id) as next_value
+    FROM logs
+) as t
+WHERE num = prev_value AND num = next_value
+
+
+--SOLUTION (2):
+SELECT DISTINCT 
+    l1.num as ConsecutiveNums 
+FROM Logs l1
+    JOIN Logs l2 ON l1.id = l2.id - 1
+    JOIN Logs l3 ON l1.id = l3.id - 2
+WHERE l1.num = l2.num AND l2.num = l3.num
