@@ -1,0 +1,29 @@
+--TASK 197.
+
+-- Write a solution to find all dates' id with higher temperatures compared to its previous dates (yesterday).
+-- Return the result table in any order.
+-- The result format is in the following example.
+
+-- Example 1:
+-- Input: 
+-- Weather table:
+-- +----+------------+-------------+
+-- | id | recordDate | temperature |
+-- +----+------------+-------------+
+-- | 1  | 2015-01-01 | 10          |
+-- | 2  | 2015-01-02 | 25          |
+-- | 3  | 2015-01-03 | 20          |
+-- | 4  | 2015-01-04 | 30          |
+-- +----+------------+-------------+
+-- Output: 
+-- +----+
+-- | id |
+-- +----+
+-- | 2  |
+-- | 4  |
+-- +----+
+
+--Solution:
+SELECT W1.id FROM Weather as W1
+JOIN Weather AS W2 ON DateDiff(day, W2.recordDate, W1.recordDate) = 1
+WHERE W1.temperature > W2.temperature 
