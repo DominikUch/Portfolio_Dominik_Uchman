@@ -2,20 +2,20 @@
 
 This project is an **interactive dashboard** built in **Microsoft Excel**.
 
-Its purpose is to **visualize and analyze road accident data**, providing insights into trends and patterns of casualties. The dashboard uses the main dataset available in the **Data** sheet.
+Its purpose is to **visualize and analyze road accident data**, providing insights into trends and patterns of casualties. The dashboard uses key dataset available in the **Data sheet**.
 
 The dashboard contains visualizations for:  
-- **Fatal Casualties**  
+- **Number of different Casualties**  
 - **Casualties by Vehicle Type**  
 - **Casualties by Year**  
-- **Casualties by Road Surface**  
 - **Casualties by Road Type**  
+- **Casualties by Road Surface**  
 - **Casualties by Location**  
 - **Casualties by Light Condition**  
 
 ---
 
-👉 To explore this project fully, please download **Road Accident Dashboard.xlsx** ("open raw").
+👉 To explore this project fully, please download **Road Accident Data.xlsx** ("open raw").
 
 For those who do not wish to download the file, screenshots of the most important project sheets are included below.
 
