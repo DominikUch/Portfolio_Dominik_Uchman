@@ -8,8 +8,8 @@ For those who do not wish to download the file, screenshots of the most importan
 Project Screenshots
 
 Dashboard Sheet
-![alt text]([Dashboard Screenshot].png)
+![alt text](Dashboard Screenshot.png)
 Orders Sheet
-![alt text]([Orders Screenshot].png)
+![alt text](Orders Screenshot.png)
 Customers Sheet
-![alt text]([Customers Screenshot].png)
+![alt text](Customers Screenshot.png)
