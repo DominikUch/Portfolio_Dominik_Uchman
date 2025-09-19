@@ -6,7 +6,8 @@ This project is an interactive sales dashboard built in Microsoft Excel. Its pur
 For those who do not wish to download the file, screenshots of the most important project sheets are included below.
 
 Project Screenshots
-Dashboard
+
+Dashboard Sheet
 ![alt text](image.png)
 Orders Sheet
 ![alt text](image-1.png)
