@@ -1,0 +1,44 @@
+--TASK 177.
+
+-- Write a solution to find the nth highest distinct salary from the Employee table. If there are less than n distinct salaries, return null.
+-- The result format is in the following example.
+
+-- Example 1:
+-- Input: 
+-- Employee table:
+-- +----+--------+
+-- | id | salary |
+-- +----+--------+
+-- | 1  | 100    |
+-- | 2  | 200    |
+-- | 3  | 300    |
+-- +----+--------+
+-- n = 2
+-- Output: 
+-- +------------------------+
+-- | getNthHighestSalary(2) |
+-- +------------------------+
+-- | 200                    |
+-- +------------------------+
+
+--SOLUTION:
+
+CREATE FUNCTION getNthHighestSalary(@N INT)  
+RETURNS INT  
+AS  
+BEGIN  
+    DECLARE @result INT;
+    -- Sprawdzenie, czy jest co najmniej N różnych pensji
+    IF @N <= 0 OR @N > (SELECT COUNT(DISTINCT salary) FROM Employee)
+        SET @result = NULL;
+    ELSE
+        -- Pobranie n-tej najwyższej pensji
+        SELECT @result = MIN(salary)
+        FROM (
+            SELECT DISTINCT TOP(@N) salary
+            FROM Employee
+            ORDER BY salary DESC
+        ) AS t;
+    RETURN @result;
+END;
+
