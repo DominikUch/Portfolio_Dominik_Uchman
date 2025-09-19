@@ -26,22 +26,7 @@ I am a passionate programmer and data enthusiast, continuously learning and appl
 ## 🖥️ Featured Projects
 
 ### 1. ☕ Coffee Shops Sales Dashboard
-An interactive Excel dashboard analyzing coffee sales data, including:  
-- Total Revenue by Month  
-- Transactions by Product Category, Day of Week, Hour of Day  
-- Top 15 Products  
-
-**Screenshots:**  
-![Dashboard Screenshot](Dashboard%20Screenshot.png) 
----
-
 ### 2. 🛣️ Road Accident Dashboard
-An Excel dashboard analyzing road accident data, visualizing:  
-- Fatal Casualties  
-- Casualties by Vehicle Type, Year, Road Surface, Road Type, Location, Light Condition  
-
-**Screenshots:**  
-![Road Accident Dashboard Screenshot](Road%20Accident%20Dashboard%20Screenshot.png)  
 
 ---
 
@@ -66,8 +51,7 @@ Each project is self-contained in its folder, with source code, data, and suppor
 
 ## 📫 Contact
 Feel free to reach out:  
-- **Email:** your.email@example.com  
-- **LinkedIn:** [linkedin.com/in/dominikuchman](https://www.linkedin.com/in/dominikuchman)  
+- **Email:** dominikuchman02@gmail.com  
 
 ---
 
