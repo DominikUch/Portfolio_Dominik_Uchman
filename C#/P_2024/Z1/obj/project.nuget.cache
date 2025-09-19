@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vLxoYrTKYsw=",
+  "dgSpecHash": "J7nrZvR/260=",
   "success": true,
-  "projectFilePath": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\1STUDIA & BUSINESS\\1Studia\\SGGW\\S2\\OOP\\1Obiektowe\\P_2024\\Z1\\Z1.csproj",
+  "projectFilePath": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1\\Z1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\domos\\.nuget\\packages\\microsoft.codecoverage\\17.2.0\\microsoft.codecoverage.17.2.0.nupkg.sha512",
     "C:\\Users\\domos\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

@@ -1,109 +1,109 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\",
+  "WorkspaceRootPath": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39E4EE21-BC79-4F9A-8FA0-9DE946C1083C}|Z1\\Z1.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_2024\\z1\\rachunekosobisty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39E4EE21-BC79-4F9A-8FA0-9DE946C1083C}|Z1\\Z1.csproj|solutionrelative:z1\\rachunekosobisty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39E4EE21-BC79-4F9A-8FA0-9DE946C1083C}|Z1\\Z1.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_2024\\z1\\rachunekfirmowy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39E4EE21-BC79-4F9A-8FA0-9DE946C1083C}|Z1\\Z1.csproj|solutionrelative:z1\\rachunekfirmowy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_2024\\z1.tests\\deserializacjatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\deserializacjatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39E4EE21-BC79-4F9A-8FA0-9DE946C1083C}|Z1\\Z1.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_2024\\z1\\systembankowy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39E4EE21-BC79-4F9A-8FA0-9DE946C1083C}|Z1\\Z1.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\github_repo\\c#\\p_2024\\z1\\systembankowy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39E4EE21-BC79-4F9A-8FA0-9DE946C1083C}|Z1\\Z1.csproj|solutionrelative:z1\\systembankowy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39E4EE21-BC79-4F9A-8FA0-9DE946C1083C}|Z1\\Z1.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_2024\\z1\\refleksja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39E4EE21-BC79-4F9A-8FA0-9DE946C1083C}|Z1\\Z1.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\github_repo\\c#\\p_2024\\z1\\refleksja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39E4EE21-BC79-4F9A-8FA0-9DE946C1083C}|Z1\\Z1.csproj|solutionrelative:z1\\refleksja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39E4EE21-BC79-4F9A-8FA0-9DE946C1083C}|Z1\\Z1.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_2024\\z1\\rachunekbankowy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39E4EE21-BC79-4F9A-8FA0-9DE946C1083C}|Z1\\Z1.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\github_repo\\c#\\p_2024\\z1\\rachunekfirmowy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E4EE21-BC79-4F9A-8FA0-9DE946C1083C}|Z1\\Z1.csproj|solutionrelative:z1\\rachunekfirmowy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E4EE21-BC79-4F9A-8FA0-9DE946C1083C}|Z1\\Z1.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\github_repo\\c#\\p_2024\\z1\\rachunekosobisty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E4EE21-BC79-4F9A-8FA0-9DE946C1083C}|Z1\\Z1.csproj|solutionrelative:z1\\rachunekosobisty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\github_repo\\c#\\p_2024\\z1.tests\\deserializacjatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\deserializacjatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E4EE21-BC79-4F9A-8FA0-9DE946C1083C}|Z1\\Z1.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\github_repo\\c#\\p_2024\\z1\\rachunekbankowy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39E4EE21-BC79-4F9A-8FA0-9DE946C1083C}|Z1\\Z1.csproj|solutionrelative:z1\\rachunekbankowy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39E4EE21-BC79-4F9A-8FA0-9DE946C1083C}|Z1\\Z1.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_2024\\z1\\operacjafinansowaeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39E4EE21-BC79-4F9A-8FA0-9DE946C1083C}|Z1\\Z1.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\github_repo\\c#\\p_2024\\z1\\operacjafinansowaeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39E4EE21-BC79-4F9A-8FA0-9DE946C1083C}|Z1\\Z1.csproj|solutionrelative:z1\\operacjafinansowaeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_2024\\z1.tests\\serializacjatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\github_repo\\c#\\p_2024\\z1.tests\\serializacjatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\serializacjatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_2024\\z1.tests\\rejestrtransakcjitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\github_repo\\c#\\p_2024\\z1.tests\\rejestrtransakcjitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\rejestrtransakcjitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_2024\\z1.tests\\refleksjatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\github_repo\\c#\\p_2024\\z1.tests\\refleksjatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\refleksjatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_2024\\z1.tests\\przelewznumerutests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\github_repo\\c#\\p_2024\\z1.tests\\przelewznumerutests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\przelewznumerutests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_2024\\z1.tests\\dodajrachunektests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\github_repo\\c#\\p_2024\\z1.tests\\dodajrachunektests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\dodajrachunektests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_2024\\z1.tests\\z1.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\github_repo\\c#\\p_2024\\z1.tests\\z1.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\z1.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_2024\\z1.tests\\wyplataeventtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\github_repo\\c#\\p_2024\\z1.tests\\wyplataeventtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\wyplataeventtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_2024\\z1.tests\\wplataeventtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\github_repo\\c#\\p_2024\\z1.tests\\wplataeventtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\wplataeventtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_2024\\z1.tests\\wplatatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\github_repo\\c#\\p_2024\\z1.tests\\wplatatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\wplatatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_2024\\z1.tests\\przelewbezposrednitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\github_repo\\c#\\p_2024\\z1.tests\\przelewbezposrednitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\przelewbezposrednitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_2024\\z1.tests\\wyplatatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\github_repo\\c#\\p_2024\\z1.tests\\wyplatatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\wyplatatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_2024\\z1.tests\\przelewznumerowtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\github_repo\\c#\\p_2024\\z1.tests\\przelewznumerowtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\przelewznumerowtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_2024\\z1.tests\\ineksatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\github_repo\\c#\\p_2024\\z1.tests\\ineksatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\ineksatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_2024\\z1.tests\\explicitimplicittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\github_repo\\c#\\p_2024\\z1.tests\\explicitimplicittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\explicitimplicittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_2024\\z1.tests\\comparertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\github_repo\\c#\\p_2024\\z1.tests\\comparertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\comparertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_2024\\z1.tests\\equalshashcodetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\github_repo\\c#\\p_2024\\z1.tests\\equalshashcodetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\equalshashcodetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_2024\\z1.tests\\comparetotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\github_repo\\c#\\p_2024\\z1.tests\\comparetotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\comparetotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_2024\\z1.tests\\usunrachunektests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\github_repo\\c#\\p_2024\\z1.tests\\usunrachunektests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\usunrachunektests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_2024\\z1.tests\\wlasciwosctests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\github_repo\\c#\\p_2024\\z1.tests\\wlasciwosctests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0C8FD4B-877D-429D-A6CE-397ECEF7075B}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\wlasciwosctests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -114,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -128,9 +128,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Z1.Tests.csproj",
-              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\Z1.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\Z1.Tests.csproj",
               "RelativeDocumentMoniker": "Z1.Tests\\Z1.Tests.csproj",
-              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\Z1.Tests.csproj",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\Z1.Tests.csproj",
               "RelativeToolTip": "Z1.Tests\\Z1.Tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -138,11 +138,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Refleksja.cs",
-              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1\\Refleksja.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1\\Refleksja.cs",
               "RelativeDocumentMoniker": "Z1\\Refleksja.cs",
-              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1\\Refleksja.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1\\Refleksja.cs",
               "RelativeToolTip": "Z1\\Refleksja.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -150,37 +150,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "RachunekOsobisty.cs",
-              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1\\RachunekOsobisty.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1\\RachunekOsobisty.cs",
               "RelativeDocumentMoniker": "Z1\\RachunekOsobisty.cs",
-              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1\\RachunekOsobisty.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1\\RachunekOsobisty.cs",
               "RelativeToolTip": "Z1\\RachunekOsobisty.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T19:36:30.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T19:36:30.611Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "RachunekFirmowy.cs",
-              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1\\RachunekFirmowy.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1\\RachunekFirmowy.cs",
               "RelativeDocumentMoniker": "Z1\\RachunekFirmowy.cs",
-              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1\\RachunekFirmowy.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1\\RachunekFirmowy.cs",
               "RelativeToolTip": "Z1\\RachunekFirmowy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T19:33:34.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T19:33:34.916Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "RachunekBankowy.cs",
-              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1\\RachunekBankowy.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1\\RachunekBankowy.cs",
               "RelativeDocumentMoniker": "Z1\\RachunekBankowy.cs",
-              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1\\RachunekBankowy.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1\\RachunekBankowy.cs",
               "RelativeToolTip": "Z1\\RachunekBankowy.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAwwCwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -188,23 +186,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "SystemBankowy.cs",
-              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1\\SystemBankowy.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1\\SystemBankowy.cs",
               "RelativeDocumentMoniker": "Z1\\SystemBankowy.cs",
-              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1\\SystemBankowy.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1\\SystemBankowy.cs",
               "RelativeToolTip": "Z1\\SystemBankowy.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAIwEoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T19:24:36.182Z"
+              "WhenOpened": "2025-06-22T19:24:36.182Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "OperacjaFinansowaEventArgs.cs",
-              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1\\OperacjaFinansowaEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1\\OperacjaFinansowaEventArgs.cs",
               "RelativeDocumentMoniker": "Z1\\OperacjaFinansowaEventArgs.cs",
-              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1\\OperacjaFinansowaEventArgs.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1\\OperacjaFinansowaEventArgs.cs",
               "RelativeToolTip": "Z1\\OperacjaFinansowaEventArgs.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -214,9 +213,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "WyplataTests.cs",
-              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\WyplataTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\WyplataTests.cs",
               "RelativeDocumentMoniker": "Z1.Tests\\WyplataTests.cs",
-              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\WyplataTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\WyplataTests.cs",
               "RelativeToolTip": "Z1.Tests\\WyplataTests.cs",
               "ViewState": "AgIAACQAAAAAAAAAAADwvzUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -226,9 +225,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "WyplataEventTests.cs",
-              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\WyplataEventTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\WyplataEventTests.cs",
               "RelativeDocumentMoniker": "Z1.Tests\\WyplataEventTests.cs",
-              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\WyplataEventTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\WyplataEventTests.cs",
               "RelativeToolTip": "Z1.Tests\\WyplataEventTests.cs",
               "ViewState": "AgIAAG4AAAAAAAAAAAAcwIQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -238,9 +237,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "WplataTests.cs",
-              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\WplataTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\WplataTests.cs",
               "RelativeDocumentMoniker": "Z1.Tests\\WplataTests.cs",
-              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\WplataTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\WplataTests.cs",
               "RelativeToolTip": "Z1.Tests\\WplataTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -250,9 +249,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "WplataEventTests.cs",
-              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\WplataEventTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\WplataEventTests.cs",
               "RelativeDocumentMoniker": "Z1.Tests\\WplataEventTests.cs",
-              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\WplataEventTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\WplataEventTests.cs",
               "RelativeToolTip": "Z1.Tests\\WplataEventTests.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAA1wCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -262,9 +261,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "WlasciwoscTests.cs",
-              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\WlasciwoscTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\WlasciwoscTests.cs",
               "RelativeDocumentMoniker": "Z1.Tests\\WlasciwoscTests.cs",
-              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\WlasciwoscTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\WlasciwoscTests.cs",
               "RelativeToolTip": "Z1.Tests\\WlasciwoscTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -274,9 +273,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "UsunRachunekTests.cs",
-              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\UsunRachunekTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\UsunRachunekTests.cs",
               "RelativeDocumentMoniker": "Z1.Tests\\UsunRachunekTests.cs",
-              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\UsunRachunekTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\UsunRachunekTests.cs",
               "RelativeToolTip": "Z1.Tests\\UsunRachunekTests.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -286,9 +285,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "SerializacjaTests.cs",
-              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\SerializacjaTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\SerializacjaTests.cs",
               "RelativeDocumentMoniker": "Z1.Tests\\SerializacjaTests.cs",
-              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\SerializacjaTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\SerializacjaTests.cs",
               "RelativeToolTip": "Z1.Tests\\SerializacjaTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -298,9 +297,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "RejestrTransakcjiTests.cs",
-              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\RejestrTransakcjiTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\RejestrTransakcjiTests.cs",
               "RelativeDocumentMoniker": "Z1.Tests\\RejestrTransakcjiTests.cs",
-              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\RejestrTransakcjiTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\RejestrTransakcjiTests.cs",
               "RelativeToolTip": "Z1.Tests\\RejestrTransakcjiTests.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAmwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -310,9 +309,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "RefleksjaTests.cs",
-              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\RefleksjaTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\RefleksjaTests.cs",
               "RelativeDocumentMoniker": "Z1.Tests\\RefleksjaTests.cs",
-              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\RefleksjaTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\RefleksjaTests.cs",
               "RelativeToolTip": "Z1.Tests\\RefleksjaTests.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -322,9 +321,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "PrzelewZNumeruTests.cs",
-              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\PrzelewZNumeruTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\PrzelewZNumeruTests.cs",
               "RelativeDocumentMoniker": "Z1.Tests\\PrzelewZNumeruTests.cs",
-              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\PrzelewZNumeruTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\PrzelewZNumeruTests.cs",
               "RelativeToolTip": "Z1.Tests\\PrzelewZNumeruTests.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAywCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -334,9 +333,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "PrzelewZNumerowTests.cs",
-              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\PrzelewZNumerowTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\PrzelewZNumerowTests.cs",
               "RelativeDocumentMoniker": "Z1.Tests\\PrzelewZNumerowTests.cs",
-              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\PrzelewZNumerowTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\PrzelewZNumerowTests.cs",
               "RelativeToolTip": "Z1.Tests\\PrzelewZNumerowTests.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAYwCQAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -346,9 +345,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "PrzelewBezposredniTests.cs",
-              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\PrzelewBezposredniTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\PrzelewBezposredniTests.cs",
               "RelativeDocumentMoniker": "Z1.Tests\\PrzelewBezposredniTests.cs",
-              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\PrzelewBezposredniTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\PrzelewBezposredniTests.cs",
               "RelativeToolTip": "Z1.Tests\\PrzelewBezposredniTests.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAADwvyQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -358,9 +357,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "IneksatorTests.cs",
-              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\IneksatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\IneksatorTests.cs",
               "RelativeDocumentMoniker": "Z1.Tests\\IneksatorTests.cs",
-              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\IneksatorTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\IneksatorTests.cs",
               "RelativeToolTip": "Z1.Tests\\IneksatorTests.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAADwvywAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -370,9 +369,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "ExplicitImplicitTests.cs",
-              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\ExplicitImplicitTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\ExplicitImplicitTests.cs",
               "RelativeDocumentMoniker": "Z1.Tests\\ExplicitImplicitTests.cs",
-              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\ExplicitImplicitTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\ExplicitImplicitTests.cs",
               "RelativeToolTip": "Z1.Tests\\ExplicitImplicitTests.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAQwEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -382,9 +381,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "EqualsHashCodeTests.cs",
-              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\EqualsHashCodeTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\EqualsHashCodeTests.cs",
               "RelativeDocumentMoniker": "Z1.Tests\\EqualsHashCodeTests.cs",
-              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\EqualsHashCodeTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\EqualsHashCodeTests.cs",
               "RelativeToolTip": "Z1.Tests\\EqualsHashCodeTests.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -394,9 +393,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "DodajRachunekTests.cs",
-              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\DodajRachunekTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\DodajRachunekTests.cs",
               "RelativeDocumentMoniker": "Z1.Tests\\DodajRachunekTests.cs",
-              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\DodajRachunekTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\DodajRachunekTests.cs",
               "RelativeToolTip": "Z1.Tests\\DodajRachunekTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -404,24 +403,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "DeserializacjaTests.cs",
-              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\DeserializacjaTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\DeserializacjaTests.cs",
               "RelativeDocumentMoniker": "Z1.Tests\\DeserializacjaTests.cs",
-              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\DeserializacjaTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\DeserializacjaTests.cs",
               "RelativeToolTip": "Z1.Tests\\DeserializacjaTests.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAmwCkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T19:20:12.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T19:20:12.365Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "CompareToTests.cs",
-              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\CompareToTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\CompareToTests.cs",
               "RelativeDocumentMoniker": "Z1.Tests\\CompareToTests.cs",
-              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\CompareToTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\CompareToTests.cs",
               "RelativeToolTip": "Z1.Tests\\CompareToTests.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -431,9 +429,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "ComparerTests.cs",
-              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\ComparerTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\ComparerTests.cs",
               "RelativeDocumentMoniker": "Z1.Tests\\ComparerTests.cs",
-              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_2024\\Z1.Tests\\ComparerTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\GITHUB_REPO\\C#\\P_2024\\Z1.Tests\\ComparerTests.cs",
               "RelativeToolTip": "Z1.Tests\\ComparerTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
