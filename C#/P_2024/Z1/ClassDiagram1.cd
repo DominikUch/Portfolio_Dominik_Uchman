@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Z1.OperacjaFinansowaEventArgs">
+    <Position X="0.75" Y="7" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OperacjaFinansowaEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Z1.RachunekBankowy">
+    <Position X="9.5" Y="0.5" Width="4.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Z1.RachunekBankowy.SortowanieSaldaComparer">
+        <TypeIdentifier>
+          <NewMemberFileName>RachunekBankowy.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAQCgAAAggIAAAAAAIAEAAAABAACABA=</HashCode>
+      <FileName>RachunekBankowy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Z1.RachunekFirmowy">
+    <Position X="5.75" Y="7" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAACAABAAAAAAAAAA=</HashCode>
+      <FileName>RachunekFirmowy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Z1.RachunekOsobisty">
+    <Position X="11.5" Y="7" Width="2.75" />
+    <InheritanceLine Type="Z1.RachunekBankowy" FixedToPoint="true">
+      <Path>
+        <Point X="11.625" Y="6.454" />
+        <Point X="11.625" Y="6.7" />
+        <Point X="12.875" Y="6.7" />
+        <Point X="12.875" Y="7" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RachunekOsobisty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Z1.Refleksja">
+    <Position X="1" Y="2" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Refleksja.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Z1.SystemBankowy">
+    <Position X="0.75" Y="3.5" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAAAACAAAAAAAAAAABAAAAAAAABNAAAA=</HashCode>
+      <FileName>SystemBankowy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="System.Collections.Generic.IComparer&lt;T&gt;" Collapsed="true">
+    <Position X="6.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Delegate Name="Z1.OperacjaFinansowaEventHandler">
+    <Position X="1" Y="0.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RachunekBankowy.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

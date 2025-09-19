@@ -1,0 +1,384 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B41E9A-ACAC-4C54-9D7C-82170305741E}|Z1\\Z1.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_231032\\z1\\zoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B41E9A-ACAC-4C54-9D7C-82170305741E}|Z1\\Z1.csproj|solutionrelative:z1\\zoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B41E9A-ACAC-4C54-9D7C-82170305741E}|Z1\\Z1.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_231032\\z1\\animalcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B41E9A-ACAC-4C54-9D7C-82170305741E}|Z1\\Z1.csproj|solutionrelative:z1\\animalcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B41E9A-ACAC-4C54-9D7C-82170305741E}|Z1\\Z1.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_231032\\z1\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B41E9A-ACAC-4C54-9D7C-82170305741E}|Z1\\Z1.csproj|solutionrelative:z1\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B41E9A-ACAC-4C54-9D7C-82170305741E}|Z1\\Z1.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_231032\\z1\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B41E9A-ACAC-4C54-9D7C-82170305741E}|Z1\\Z1.csproj|solutionrelative:z1\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654EA254-6D46-4776-8404-79A331254003}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_231032\\z1.tests\\comparertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654EA254-6D46-4776-8404-79A331254003}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\comparertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B41E9A-ACAC-4C54-9D7C-82170305741E}|Z1\\Z1.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_231032\\z1\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B41E9A-ACAC-4C54-9D7C-82170305741E}|Z1\\Z1.csproj|solutionrelative:z1\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B41E9A-ACAC-4C54-9D7C-82170305741E}|Z1\\Z1.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_231032\\z1\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B41E9A-ACAC-4C54-9D7C-82170305741E}|Z1\\Z1.csproj|solutionrelative:z1\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B41E9A-ACAC-4C54-9D7C-82170305741E}|Z1\\Z1.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_231032\\z1\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B41E9A-ACAC-4C54-9D7C-82170305741E}|Z1\\Z1.csproj|solutionrelative:z1\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B41E9A-ACAC-4C54-9D7C-82170305741E}|Z1\\Z1.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_231032\\z1\\animaleventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B41E9A-ACAC-4C54-9D7C-82170305741E}|Z1\\Z1.csproj|solutionrelative:z1\\animaleventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654EA254-6D46-4776-8404-79A331254003}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_231032\\z1.tests\\animalcollectiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654EA254-6D46-4776-8404-79A331254003}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\animalcollectiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654EA254-6D46-4776-8404-79A331254003}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_231032\\z1.tests\\attributestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654EA254-6D46-4776-8404-79A331254003}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\attributestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654EA254-6D46-4776-8404-79A331254003}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_231032\\z1.tests\\serializationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654EA254-6D46-4776-8404-79A331254003}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\serializationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654EA254-6D46-4776-8404-79A331254003}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_231032\\z1.tests\\zootests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654EA254-6D46-4776-8404-79A331254003}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\zootests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654EA254-6D46-4776-8404-79A331254003}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_231032\\z1.tests\\zooeventtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654EA254-6D46-4776-8404-79A331254003}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\zooeventtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654EA254-6D46-4776-8404-79A331254003}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_231032\\z1.tests\\implicitexplicittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654EA254-6D46-4776-8404-79A331254003}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\implicitexplicittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654EA254-6D46-4776-8404-79A331254003}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_231032\\z1.tests\\indexertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654EA254-6D46-4776-8404-79A331254003}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\indexertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654EA254-6D46-4776-8404-79A331254003}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_231032\\z1.tests\\comparetotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654EA254-6D46-4776-8404-79A331254003}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\comparetotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654EA254-6D46-4776-8404-79A331254003}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_231032\\z1.tests\\makesoundtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654EA254-6D46-4776-8404-79A331254003}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\makesoundtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654EA254-6D46-4776-8404-79A331254003}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_231032\\z1.tests\\movetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654EA254-6D46-4776-8404-79A331254003}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\movetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654EA254-6D46-4776-8404-79A331254003}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_231032\\z1.tests\\catconstructortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654EA254-6D46-4776-8404-79A331254003}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\catconstructortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654EA254-6D46-4776-8404-79A331254003}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_231032\\z1.tests\\dogconstructortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654EA254-6D46-4776-8404-79A331254003}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\dogconstructortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654EA254-6D46-4776-8404-79A331254003}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\domos\\dropbox\\komputer\\desktop\\obiektowe\\p_231032\\z1.tests\\equalshashcodetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654EA254-6D46-4776-8404-79A331254003}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\equalshashcodetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ZooTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1.Tests\\ZooTests.cs",
+              "RelativeDocumentMoniker": "Z1.Tests\\ZooTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1.Tests\\ZooTests.cs",
+              "RelativeToolTip": "Z1.Tests\\ZooTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:36:31.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ZooEventTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1.Tests\\ZooEventTests.cs",
+              "RelativeDocumentMoniker": "Z1.Tests\\ZooEventTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1.Tests\\ZooEventTests.cs",
+              "RelativeToolTip": "Z1.Tests\\ZooEventTests.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:36:28.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SerializationTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1.Tests\\SerializationTests.cs",
+              "RelativeDocumentMoniker": "Z1.Tests\\SerializationTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1.Tests\\SerializationTests.cs",
+              "RelativeToolTip": "Z1.Tests\\SerializationTests.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwv0AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:36:24.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MoveTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1.Tests\\MoveTests.cs",
+              "RelativeDocumentMoniker": "Z1.Tests\\MoveTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1.Tests\\MoveTests.cs",
+              "RelativeToolTip": "Z1.Tests\\MoveTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:36:21.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MakeSoundTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1.Tests\\MakeSoundTests.cs",
+              "RelativeDocumentMoniker": "Z1.Tests\\MakeSoundTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1.Tests\\MakeSoundTests.cs",
+              "RelativeToolTip": "Z1.Tests\\MakeSoundTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:36:17.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IndexerTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1.Tests\\IndexerTests.cs",
+              "RelativeDocumentMoniker": "Z1.Tests\\IndexerTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1.Tests\\IndexerTests.cs",
+              "RelativeToolTip": "Z1.Tests\\IndexerTests.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAswFAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:36:14.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ImplicitExplicitTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1.Tests\\ImplicitExplicitTests.cs",
+              "RelativeDocumentMoniker": "Z1.Tests\\ImplicitExplicitTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1.Tests\\ImplicitExplicitTests.cs",
+              "RelativeToolTip": "Z1.Tests\\ImplicitExplicitTests.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowEoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:36:10.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EqualsHashCodeTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1.Tests\\EqualsHashCodeTests.cs",
+              "RelativeDocumentMoniker": "Z1.Tests\\EqualsHashCodeTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1.Tests\\EqualsHashCodeTests.cs",
+              "RelativeToolTip": "Z1.Tests\\EqualsHashCodeTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:36:06.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DogConstructorTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1.Tests\\DogConstructorTests.cs",
+              "RelativeDocumentMoniker": "Z1.Tests\\DogConstructorTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1.Tests\\DogConstructorTests.cs",
+              "RelativeToolTip": "Z1.Tests\\DogConstructorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:36:03.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CompareToTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1.Tests\\CompareToTests.cs",
+              "RelativeDocumentMoniker": "Z1.Tests\\CompareToTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1.Tests\\CompareToTests.cs",
+              "RelativeToolTip": "Z1.Tests\\CompareToTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:35:59.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComparerTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1.Tests\\ComparerTests.cs",
+              "RelativeDocumentMoniker": "Z1.Tests\\ComparerTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1.Tests\\ComparerTests.cs",
+              "RelativeToolTip": "Z1.Tests\\ComparerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:35:56.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CatConstructorTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1.Tests\\CatConstructorTests.cs",
+              "RelativeDocumentMoniker": "Z1.Tests\\CatConstructorTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1.Tests\\CatConstructorTests.cs",
+              "RelativeToolTip": "Z1.Tests\\CatConstructorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:35:54.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AttributesTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1.Tests\\AttributesTests.cs",
+              "RelativeDocumentMoniker": "Z1.Tests\\AttributesTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1.Tests\\AttributesTests.cs",
+              "RelativeToolTip": "Z1.Tests\\AttributesTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:35:48.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnimalCollectionTests.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1.Tests\\AnimalCollectionTests.cs",
+              "RelativeDocumentMoniker": "Z1.Tests\\AnimalCollectionTests.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1.Tests\\AnimalCollectionTests.cs",
+              "RelativeToolTip": "Z1.Tests\\AnimalCollectionTests.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAIAxwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:35:41.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zoo.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1\\Zoo.cs",
+              "RelativeDocumentMoniker": "Z1\\Zoo.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1\\Zoo.cs",
+              "RelativeToolTip": "Z1\\Zoo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:31:50.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimalCollection.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1\\AnimalCollection.cs",
+              "RelativeDocumentMoniker": "Z1\\AnimalCollection.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1\\AnimalCollection.cs",
+              "RelativeToolTip": "Z1\\AnimalCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:23:53.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1\\Cat.cs",
+              "RelativeDocumentMoniker": "Z1\\Cat.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1\\Cat.cs",
+              "RelativeToolTip": "Z1\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:23:05.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1\\Dog.cs",
+              "RelativeDocumentMoniker": "Z1\\Dog.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1\\Dog.cs",
+              "RelativeToolTip": "Z1\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:20:41.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnimalEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1\\AnimalEventArgs.cs",
+              "RelativeDocumentMoniker": "Z1\\AnimalEventArgs.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1\\AnimalEventArgs.cs",
+              "RelativeToolTip": "Z1\\AnimalEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:18:46.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMovable.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1\\IMovable.cs",
+              "RelativeDocumentMoniker": "Z1\\IMovable.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1\\IMovable.cs",
+              "RelativeToolTip": "Z1\\IMovable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:14:18.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1\\IAnimal.cs",
+              "RelativeDocumentMoniker": "Z1\\IAnimal.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1\\IAnimal.cs",
+              "RelativeToolTip": "Z1\\IAnimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:14:01.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1\\Animal.cs",
+              "RelativeDocumentMoniker": "Z1\\Animal.cs",
+              "ToolTip": "C:\\Users\\domos\\Dropbox\\Komputer\\Desktop\\Obiektowe\\P_231032\\Z1\\Animal.cs",
+              "RelativeToolTip": "Z1\\Animal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:13:32.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
