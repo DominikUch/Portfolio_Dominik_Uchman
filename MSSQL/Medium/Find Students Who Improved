@@ -1,0 +1,59 @@
+--TASK 3421.
+
+-- Write a solution to find the students who have shown improvement. A student is considered to have shown improvement if they meet both of these conditions:
+-- Have taken exams in the same subject on at least two different dates
+-- Their latest score in that subject is higher than their first score
+-- Return the result table ordered by student_id, subject in ascending order.
+-- The result format is in the following example.
+
+-- Example:
+-- Input:
+-- Scores table:
+-- +------------+----------+-------+------------+
+-- | student_id | subject  | score | exam_date  |
+-- +------------+----------+-------+------------+
+-- | 101        | Math     | 70    | 2023-01-15 |
+-- | 101        | Math     | 85    | 2023-02-15 |
+-- | 101        | Physics  | 65    | 2023-01-15 |
+-- | 101        | Physics  | 60    | 2023-02-15 |
+-- | 102        | Math     | 80    | 2023-01-15 |
+-- | 102        | Math     | 85    | 2023-02-15 |
+-- | 103        | Math     | 90    | 2023-01-15 |
+-- | 104        | Physics  | 75    | 2023-01-15 |
+-- | 104        | Physics  | 85    | 2023-02-15 |
+-- +------------+----------+-------+------------+
+-- Output:
+
+-- +------------+----------+-------------+--------------+
+-- | student_id | subject  | first_score | latest_score |
+-- +------------+----------+-------------+--------------+
+-- | 101        | Math     | 70          | 85           |
+-- | 102        | Math     | 80          | 85           |
+-- | 104        | Physics  | 75          | 85           |
+-- +------------+----------+-------------+--------------+
+
+
+----------------------------SOLUTION(1): [Subquery + Window]
+--Subquery + Window
+SELECT * FROM(
+    SELECT DISTINCT
+        S.student_id,
+        S.subject,
+        FIRST_VALUE(S.score) OVER(PARTITION BY S.student_id, S.subject ORDER BY S.exam_date) AS first_score,
+        FIRST_VALUE(S.score) OVER(PARTITION BY S.student_id, S.subject ORDER BY S.exam_date DESC) AS latest_score
+    FROM Scores S
+) as T
+WHERE T.latest_score > T.first_score
+
+----------------------------SOLUTION(2): [CTE]
+WITH Ranked AS (
+    SELECT
+        student_id,
+        subject,
+        FIRST_VALUE(score) OVER(PARTITION BY student_id,subject ORDER BY exam_date) AS first_score,
+        FIRST_VALUE(score) OVER(PARTITION BY student_id,subject ORDER BY exam_date DESC) AS latest_score
+    FROM Scores
+)
+SELECT DISTINCT * FROM Ranked
+WHERE first_score<latest_score
+ORDER BY student_id,subject
