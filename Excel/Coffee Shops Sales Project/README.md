@@ -13,7 +13,7 @@ The dashboard contains several visualizations to help understand sales trends, i
 
 ---
 
-👉 To explore this project fully, please download **Coffee Shops Sales.xlsx** ("open raw").
+👉 To explore this project fully, please download **Coffee Shops Sales.xlsx** ("view raw").
 
 For those who do not wish to download the file, screenshots of the most important project sheets are included below.
 
