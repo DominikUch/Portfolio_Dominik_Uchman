@@ -24,7 +24,7 @@ I am a passionate programmer and data enthusiast, continuously learning and appl
 ---
 
 ## 📂 How to Explore
-Each project is self-contained in its folder, with source code, data, and its own **README** file that describes the contents, structure, and usage of that specific folder.  
+Each **directory** (C, C#, MSSQL, and Excel) contains its own **README** file that describes the contents, structure, and usage of that specific folder.  
 Please open the **README** files in each folder for detailed instructions and explanations.
 
 ---
